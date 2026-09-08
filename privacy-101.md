@@ -20,3 +20,8 @@ Here I turn off user experience program
 Send diagnostic data automatically
 
 Those are all just trackers and you dont want that
+
+
+### Exodus privacy app
+get exodus privacy app for a scan
+it will check your apps for any trackers, sdks, and unwanted permissions

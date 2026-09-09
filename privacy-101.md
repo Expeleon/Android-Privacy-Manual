@@ -21,7 +21,14 @@ Send diagnostic data automatically
 
 Those are all just trackers and you dont want that
 
+#### MAC addresses
+Turn on mac address randomization for networks, the only exceptions can be your home networks.
+MAC Addresses are used to fingerprint your device and can track your device (and you) easily through public network pings.
+All it takes is just you passing by the network with your wifi on.
+
 
 ### Exodus privacy app
 get exodus privacy app for a scan
 it will check your apps for any trackers, sdks, and unwanted permissions
+
+
